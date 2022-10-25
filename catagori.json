@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "catagory": "Web Design",
+    "course": "04 Course(S)",
+    "logo": "https://i.postimg.cc/rpkVXnSs/category-icon-1.png"
+  },
+  {
+    "id": 2,
+    "catagory": "Marketing",
+    "course": "04 Course(S)",
+    "logo": "https://i.postimg.cc/N03PPSTC/category-icon-2.png"
+  },
+  {
+    "id": 3,
+    "catagory": "Education",
+    "course": "07 Course(S)",
+    "logo": "https://i.postimg.cc/NMQRMxwf/category-icon-3-1.png"
+  },
+  {
+    "id": 4,
+    "catagory": "Business",
+    "course": "06 Course(S)",
+    "logo": "https://i.postimg.cc/JtCrrP9p/category-icon-4.png"
+  },
+  {
+    "id": 5,
+    "catagory": "Psychology",
+    "course": "05 Course(S)",
+    "logo": "https://i.postimg.cc/J7xCG7j1/category-icon-5.png"
+  },
+
+  {
+    "id": 6,
+    "catagory": "Technology",
+    "course": "05 Course(S)",
+    "logo": "https://i.postimg.cc/259ZcPtp/category-icon-7.png"
+  },
+  {
+    "id": 6,
+    "catagory": "Photography",
+    "course": "08 Course(S)",
+    "logo": "https://i.postimg.cc/L68rTxyL/category-icon-8.png"
+  }
+]
