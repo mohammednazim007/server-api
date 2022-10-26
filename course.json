@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "course_name": "web-design",
+    "course_name": "webDesign",
     "name": "Learn HTML",
     "image": "https://i.postimg.cc/5tW9m11K/html-2.jpg",
     "lesson": "06 lessons, 9 hours to complete",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "course_name": "web-design",
+    "course_name": "webDesign",
     "name": "Learn CSS",
     "image": "https://i.postimg.cc/rsB7LVfv/css.jpg",
     "lesson": "08 lessons, 15 hours to complete",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "course_name": "web-design",
+    "course_name": "webDesign",
     "name": "JavaScript",
     "image": "https://i.postimg.cc/DwyRkM6f/js.jpg",
     "lesson": "15 lessons, 20 hours to complete",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "course_name": "web-design",
+    "course_name": "webDesign",
     "name": "Learn React",
     "image": "https://i.postimg.cc/fRLqg0WJ/react.jpg",
     "lesson": "14 lessons, 18 hours to complete",
@@ -190,7 +190,7 @@
     "name": "Teeth Whitening",
     "image": "https://i.postimg.cc/kXH7nHMc/03.jpg",
     "lesson": "08 lessons, 15 hours to complete",
-    "desc": ""
+    "desc": "There are many variations of passages available but the majority have suffered alteration injected."
   },
   {
     "id": 23,
@@ -277,36 +277,28 @@
     "course_name": "technology",
     "name": "Product menagement",
     "image": "https://i.postimg.cc/9QXDXHFK/4e28047d-29ab-4f02-9153-9ecbcc428e83-450.jpg",
-    "lesson": "10 lessons, 15 hours to complete",
-    "desc": "",
-    "rating": ""
+    "lesson": "10 lessons, 15 hours to complete"
   },
   {
     "id": 34,
     "course_name": "technology",
     "name": "Visual C++ online course",
     "image": "https://i.postimg.cc/DZ1vdxw1/d61b41b6-1d4a-47cf-96d2-53465c6669c9-450.jpg",
-    "lesson": "11 lessons, 19 hours to complete",
-    "desc": "",
-    "rating": ""
+    "lesson": "11 lessons, 19 hours to complete"
   },
   {
     "id": 35,
     "course_name": "technology",
     "name": "Team work success",
     "image": "https://i.postimg.cc/rp83YgjS/a7bd8bbd-f028-4d24-bd75-625dd6e92880-450.jpg",
-    "lesson": "10 lessons, 25 hours to complete",
-    "desc": "",
-    "rating": ""
+    "lesson": "10 lessons, 25 hours to complete"
   },
   {
     "id": 36,
     "course_name": "technology",
     "name": "Service planing",
     "image": "https://i.postimg.cc/rFNvGvC8/e4c78d21-4799-4142-a9b0-0c407ab10b1e-450.jpg",
-    "lesson": "10 lessons, 15 hours to complete",
-    "desc": "",
-    "rating": ""
+    "lesson": "10 lessons, 15 hours to complete"
   },
   {
     "id": 37,
@@ -314,7 +306,5 @@
     "name": "People equality",
     "image": "https://i.postimg.cc/g0ZsshFv/8dfe37cb-13cb-4ec8-895e-13dc94cf4e3a-450.jpg",
     "lesson": "11 lessons, 21 hours to complete",
-    "desc": "",
-    "rating": ""
   }
 ]
