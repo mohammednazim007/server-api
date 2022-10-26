@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "course_name": "webDesign",
+    "course_name": "Web_Design",
     "name": "Learn HTML",
     "image": "https://i.postimg.cc/5tW9m11K/html-2.jpg",
     "lesson": "06 lessons, 9 hours to complete",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "course_name": "webDesign",
+    "course_name": "Web_Design",
     "name": "Learn CSS",
     "image": "https://i.postimg.cc/rsB7LVfv/css.jpg",
     "lesson": "08 lessons, 15 hours to complete",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "course_name": "webDesign",
+    "course_name": "Web_Design",
     "name": "JavaScript",
     "image": "https://i.postimg.cc/DwyRkM6f/js.jpg",
     "lesson": "15 lessons, 20 hours to complete",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "course_name": "webDesign",
+    "course_name": "Web_Design",
     "name": "Learn React",
     "image": "https://i.postimg.cc/fRLqg0WJ/react.jpg",
     "lesson": "14 lessons, 18 hours to complete",
