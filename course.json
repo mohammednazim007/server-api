@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "course_name": "Web_Design",
+    "course_name": "web_design",
     "name": "Learn HTML",
     "image": "https://i.postimg.cc/5tW9m11K/html-2.jpg",
     "lesson": "06 lessons, 9 hours to complete",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "course_name": "Web_Design",
+    "course_name": "web_design",
     "name": "Learn CSS",
     "image": "https://i.postimg.cc/rsB7LVfv/css.jpg",
     "lesson": "08 lessons, 15 hours to complete",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "course_name": "Web_Design",
+    "course_name": "web_design",
     "name": "JavaScript",
     "image": "https://i.postimg.cc/DwyRkM6f/js.jpg",
     "lesson": "15 lessons, 20 hours to complete",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "course_name": "Web_Design",
+    "course_name": "web_design",
     "name": "Learn React",
     "image": "https://i.postimg.cc/fRLqg0WJ/react.jpg",
     "lesson": "14 lessons, 18 hours to complete",
@@ -170,7 +170,7 @@
   },
   {
     "id": 20,
-    "course_name": "Psychology",
+    "course_name": "psychology",
     "name": "Dental Implants",
     "image": "https://i.postimg.cc/mg7yb0Nf/01.jpg",
     "lesson": "08 lessons, 15 hours to complete",
@@ -178,7 +178,7 @@
   },
   {
     "id": 21,
-    "course_name": "Psychology",
+    "course_name": "psychology",
     "name": "Cosmetic Dentistry",
     "image": "https://i.postimg.cc/4dY5TnWw/02.jpg",
     "lesson": "08 lessons, 15 hours to complete",
@@ -186,7 +186,7 @@
   },
   {
     "id": 22,
-    "course_name": "Psychology",
+    "course_name": "psychology",
     "name": "Teeth Whitening",
     "image": "https://i.postimg.cc/kXH7nHMc/03.jpg",
     "lesson": "08 lessons, 15 hours to complete",
@@ -194,7 +194,7 @@
   },
   {
     "id": 23,
-    "course_name": "Psychology",
+    "course_name": "psychology",
     "name": "Teeth Cleaning",
     "image": "https://i.postimg.cc/1XNJD464/04.jpg",
     "lesson": "08 lessons, 15 hours to complete",
@@ -202,7 +202,7 @@
   },
   {
     "id": 24,
-    "course_name": "Psychology",
+    "course_name": "psychology",
     "name": "Orthodontics",
     "image": "https://i.postimg.cc/N034BBZc/05.jpg",
     "lesson": "08 lessons, 15 hours to complete",
