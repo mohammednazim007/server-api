@@ -7,7 +7,7 @@ const port = process.env.PORT || 5000
 app.use(cors())
 
 const catagory = require('./catagori.json')
-const course = require('./course.json')
+const all_courses = require('./course.json')
 
 
 app.get('/all_catagory', (req, res) => {
@@ -16,18 +16,26 @@ app.get('/all_catagory', (req, res) => {
 })
 
 app.get('/all_course', (req, res) => {
-    res.send(course)
+    res.send(all_courses)
 })
 
-app.get('/course/:course_name', (req, res) => {
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id
+    const find = all_courses.find(item => item.id == id)
+
+    res.send(find)
+})
+
+app.get('/all_course/:course_name', (req, res) => {
     const param = req.params.course_name
-    const filter = course?.filter(e => e.course_name === param)
-    console.log(filter);
-    res.send(filter)
+
+    // const filter = courses.filter(e => e.course_name === param)
+    console.log(param);
+    // res.send(filter)
 })
 
 app.listen(port, () => {
     console.log('server is running on ', port);
 })
 
-module.exports =app
+module.exports = app
